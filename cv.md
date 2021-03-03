@@ -1,8 +1,8 @@
 #Adams Parker
 <br>
 <a href="https://github.com/adamsparker">My github account</a><br>
-<a href="#">My mail adamssfd@gmail.com</a><br>
-<a href="#">And Discord Adams#3764</a><br>
+My mail<a href="#">adamssfd@gmail.com</a><br>
+And Discord<a href="#">Adams#3764</a><br>
 <br>
 <br>
 <p>Im just doing stuff here, c#, some front end, data stuff. using dev classic tools as stackoverflow and other great parts of google search></p>

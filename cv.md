@@ -9,8 +9,8 @@ And Discord <a href="#"> Adams#3764</a><br>
 <br>
 <p>This repo below illustrate how i write code:</p>
 <a href="https://github.com/adamsparker/Data-Labs">ye, this one</a>
-<p>Nothing special here tho, learning stuff by myself (not really, i have contact with some crazy programmer who love excel</p>
 <br>
+<p>Nothing special here tho, learning stuff by myself (not really, i have contact with some crazy programmer who love excel</p>
 <p>Google saying it's good, proud of it</p>
 <br>
 My stuff
